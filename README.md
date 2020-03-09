@@ -1,5 +1,5 @@
 # MoreTerra
-
+[![Run on Repl.it](https://repl.it/badge/github/UzayAnil/MoreTerra)](https://repl.it/github/UzayAnil/MoreTerra)
 ## What is this?
 This program will allow you to create a full view of your Terraria world. It's possible to highlight elements like Chests, Shadow Orbs, Heart Stones, as well as ores like Gold, Diamond, and many more.
 It supports command line arguments, for servers to periodically generate a new map without any user intervention.
